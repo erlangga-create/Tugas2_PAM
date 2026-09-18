@@ -50,7 +50,7 @@ class MainActivity : ComponentActivity() {
         ) {
 
             Text(
-                text = "NIM: 245150400111023"
+                text = "Nama: Erlangga Tri Frasdianto"
             )
 
             Spacer(
@@ -58,7 +58,7 @@ class MainActivity : ComponentActivity() {
             )
 
             Text(
-                text = "Nama: Erlangga"
+                text = "NIM: 245150400111023"
             )
 
             Spacer(
